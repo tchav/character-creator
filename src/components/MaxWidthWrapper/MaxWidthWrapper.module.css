@@ -5,3 +5,12 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+@media only screen and (max-width: 428px) {
+  .maxWidthWrapper {
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

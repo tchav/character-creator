@@ -26,6 +26,7 @@
     to prevent some funky scroll issues from happening.
   */
   position: relative;
+  border-radius: 3px;
 }
 
 .toggleButton[aria-pressed='true'] {

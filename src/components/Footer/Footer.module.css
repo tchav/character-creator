@@ -5,4 +5,13 @@
   color: white;
   text-align: center;
 }
+.footer a {
+  color: inherit;
+}
 
+@media only screen and (max-width: 428px) {
+  .footer {
+    padding: 16px;
+    font-size: .9rem;
+  }
+}
